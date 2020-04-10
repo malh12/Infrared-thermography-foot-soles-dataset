@@ -1,7 +1,16 @@
 # Infrared thermography foot soles dataset
 
-The dataset had a total of 108 Infrared thermography (IT) foot soles images with four different backgrounds. Each file includes a visual spectrum image in JPG format, a matrix of measured temperatures in CSV format, and a high contrast color map image of the temperatures distribution in JPG.
+The dataset had a total of 108 Infrared thermography (IT) foot soles images with four different backgrounds. The backgrounds used are a structure made of  Acrylonitrile butadiene styrene (ABS) material, a modified support structure of ABS without lateral borders, a black background, and not under control background.
 
+
+![backgrounds.png](images/backgrounds.png)
+
+![termography_backgrounds.png](images/termography_backgrounds.png)
+
+Each file includes:
+* a visual spectrum image in JPG format.
+* a matrix of measured temperatures in CSV format.
+* a high contrast color map image of the temperatures distribution in JPG format.
 
 
 ## Citation (repository)
