@@ -37,7 +37,8 @@ Even if both cameras from the FLUKE TI32 have the same focal point, the resoluti
 The area captured by the infrared thermography camera have <img src="https://render.githubusercontent.com/render/math?math=(28 \times 37)"> cm, represented by a <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> matrix, the same area in the visual spectrum camera has a resolution of <img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels. The image shown below represents the same area of capture as the infrared thermography.
 
 <p align="center">
-<img width="400" height="300" src="images/IR000190_Ir">
+<img width="400" height="300" src="images/IR000190_Ir.jpg">
+  
 <img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels
 </p>
 
