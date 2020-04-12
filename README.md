@@ -8,9 +8,9 @@ The dataset had a total of 108 Infrared thermography (IT) foot soles images with
 ![termography_backgrounds.png](images/termography_backgrounds.png)
 
 Each sample includes:
-* a visual spectrum image in JPG format of $480 \times 640$ pixel resolution.
-* a matrix of measured temperatures in CSV format of $240 \times 320$ pixel resolution.
-* a high contrast color map image of the temperatures distribution in JPG format of $240 \times 320$ pixel resolution.
+* a visual spectrum image in JPG format of <img src="https://render.githubusercontent.com/render/math?math=(480 \times 640)"> pixel resolution.
+* a matrix of measured temperatures in CSV format of <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixel resolution.
+* a high contrast color map image of the temperatures distribution in JPG format of <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixel resolution.
 
 ## Infrared thermography camera
 The camera used to build this dataset is the FLUKE TI32, with a dual system consisting of a visual spectrum camera and infrared thermography camera. The focal points were manually adjusted to the same position. The camera specifications are [here](https://www.fluke.com/es-es/producto/camara-termografica/ti32-eur).
