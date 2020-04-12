@@ -52,7 +52,7 @@ The dataset released in this repository is part of an automatic diabetic foot di
 ### Citation (repository)
 Use this BibTeX to cite this repocitory:
 ```
-@misc{database_IT_foot_soles,
+@misc{CINVESTAV_LAREMUS,
   title={Infrared thermography foot soles dataset},
   author={H. Maldonado and R. Bayareh and A. Vera and L. Leija},
   year={2020},
