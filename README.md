@@ -22,7 +22,9 @@ The visual spectrum images have a more extended sampling area and more pixel res
 <img width="640" height="480" src="images/IR000190.jpg">  
 </p>
 
+<p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=(480 \times 640)"> pixels
+</p>
 
 Even if both cameras from the FLUKE TI32 have the same focal point, the resolution from the same sampled area differs, as is shown in the figure below, with both images overlapping.
 
