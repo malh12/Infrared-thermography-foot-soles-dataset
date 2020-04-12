@@ -52,7 +52,7 @@ The area captured by the infrared thermography camera have <img src="https://ren
 <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels
 </p>
 
-The image below shows the fusion of visual spectrum image and high contrast color map.
+By reducing the resolution of the visual spectrum central area of <img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels to <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels, it is possible to fuse both images proving that the cameras have the same focal point to adjust the foot soles.
 
 <p align="center">
 <img width="320" height="240" src="images/IR000190fusion.jpg">
