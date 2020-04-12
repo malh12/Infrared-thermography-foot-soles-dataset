@@ -38,11 +38,11 @@ The area captured by the infrared thermography camera have <img src="https://ren
 
 <p align="center">
 <img width="400" height="300" src="images/IR000190_Ir.jpg">
-  
-<img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels
 </p>
 
-![IR000190_Ir.jpg](images/IR000190_Ir.jpg)
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels
+</p>
 
 
 ![IR000190_temp.jpg](images/IR000190_temp.jpg)
