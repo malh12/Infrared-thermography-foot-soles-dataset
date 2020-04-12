@@ -31,15 +31,18 @@ Even if both cameras from the FLUKE TI32 have the same focal point, the resoluti
 
 
 ![IR000190_Ir.jpg](images/IR000190_Ir.jpg)
+
 <img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels
 
 
-![IR000190_temp.jpg](attachment:IR000190_temp.jpg)
+![IR000190_temp.jpg](images/IR000190_temp.jpg)
+
 <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels
 
 fussion of Visual spectrum image and high contrast color map
 
-![IR000190fusion.jpg](attachment:IR000190fusion.jpg)
+![IR000190fusion.jpg](images/IR000190fusion.jpg)
+
 <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels
 
 
