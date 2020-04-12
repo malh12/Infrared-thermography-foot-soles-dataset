@@ -15,7 +15,15 @@ Each file includes:
 ## Infrared thermography camera
 The camera used to build this dataset is the FLUKE TI32, with a dual system consisting of a visual spectrum camera and infrared thermography camera. The focal points were manually adjusted to the same position. The camera specifications are [here](https://www.fluke.com/es-es/producto/camara-termografica/ti32-eur).
 
+## Visual spectrum images
+The visual spectrum images have a more extended sampling area and more pixel resolution than the infrared thermography images.
 
+![IR000190.jpg](images/IR000190.jpg)
+$$(480 \times 640) pixels$$ 
+
+Even if both cameras from the FLUKE TI32 have the same focal point, the resolution from the same sampled area differs, as is shown in the figure below, with both images overlapping.
+
+![IR000190fusion2.jpg](images/IR000190fusion2.jpg)
 
 ## Citation
 The dataset released in this repository is part of an automatic diabetic foot diagnosis work that you could find [here](https://www.sciencedirect.com/science/article/pii/S1350449519308217?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=430846661&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM643380&utm_source=AC_30&utm_term=Email%201%20Publishing_TLSH_Reminder).  Thus, the citation of this repository requires to cite the journal too.
