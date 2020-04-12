@@ -12,6 +12,9 @@ Each file includes:
 * a matrix of measured temperatures in CSV format.
 * a high contrast color map image of the temperatures distribution in JPG format.
 
+## Infrared thermography camera
+The camera used to build this dataset is the FLUKE TI32, with a dual system consisting of a visual spectrum camera and infrared thermography camera. The focal points were manually adjusted to the same position. The camera specifications are [here](https://www.fluke.com/es-es/producto/camara-termografica/ti32-eur).
+
 
 
 ## Citation
