@@ -20,14 +20,16 @@ The visual spectrum images have a more extended sampling area and more pixel res
 
 <p align="center">
 <img width="640" height="480" src="images/IR000190.jpg">  
-
 </p>
-![IR000190.jpg](images/IR000190.jpg)
+
 <img src="https://render.githubusercontent.com/render/math?math=(480 \times 640)"> pixels
 
 Even if both cameras from the FLUKE TI32 have the same focal point, the resolution from the same sampled area differs, as is shown in the figure below, with both images overlapping.
 
-![IR000190fusion2.jpg](images/IR000190fusion2.jpg)
+<p align="center">
+<img width="640" height="480" src="images/IR000190fusion2.jpg">  
+</p>
+
 
 ### Adjustment
 The area captured by the infrared thermography camera have <img src="https://render.githubusercontent.com/render/math?math=(28 \times 37)"> cm, represented by a <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> matrix, the same area in the visual spectrum camera has a resolution of <img src="https://render.githubusercontent.com/render/math?math=(300 \times 400)"> pixels. The image shown below represents the same area of capture as the infrared thermography.
