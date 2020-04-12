@@ -18,7 +18,8 @@ The camera used to build this dataset is the FLUKE TI32, with a dual system cons
 ## Visual spectrum images and Infrared thermography image
 The visual spectrum images have a more extended sampling area and more pixel resolution than the infrared thermography images.
 
-<p align="center">  
+<p align="center">
+<img width="640" height="480" src="images/IR000190.jpg">  
 ![IR000190.jpg](images/IR000190.jpg)
 </p>
 
