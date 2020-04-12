@@ -62,7 +62,14 @@ By reducing the resolution of the visual spectrum central area of <img src="http
 <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels
 </p>
 
+By reducing the resolution in the visual spectrum image from 480x640 pixels to 384x512 pixels, and fuse it with the high contrast color map, it is possible to show the difference in the captured area between both cameras. The image below shows the resulted image by fusing the visual spectrum image and infrared thermography image. It is possible to see that the focal point align the visual spectrum image to the infrared thermography in the foot soles area.
 
+<p align="center">
+<img width="512" height="384" src="images/IR000190fusion0.8VS.jpg">
+</p>
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=(384 \times 512)"> pixels
+</p>
 
 ## Citation
 The dataset released in this repository is part of an automatic diabetic foot diagnosis work that you could find [here](https://www.sciencedirect.com/science/article/pii/S1350449519308217?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=430846661&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM643380&utm_source=AC_30&utm_term=Email%201%20Publishing_TLSH_Reminder).  Thus, the citation of this repository requires to cite the journal too.
