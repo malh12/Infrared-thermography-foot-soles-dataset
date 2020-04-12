@@ -1,6 +1,6 @@
 # Infrared thermography foot soles dataset
 
-The dataset had a total of 108 Infrared thermography (IT) foot soles images with four different backgrounds. The backgrounds used are a structure made of  Acrylonitrile butadiene styrene (ABS) material, a modified support structure of ABS without lateral borders, a black background, and not under control background. For a more detailed explanation of the dataset, refer to the [official journal](https://www.sciencedirect.com/science/article/pii/S1350449519308217?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=430846661&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM643380&utm_source=AC_30&utm_term=Email%201%20Publishing_TLSH_Reminder).
+The [dataset](dataset/) had a total of 108 Infrared thermography (IT) foot soles images with four different backgrounds. The backgrounds used are a structure made of  Acrylonitrile butadiene styrene (ABS) material, a modified support structure of ABS without lateral borders, a black background, and not under control background. For a more detailed explanation of the dataset, refer to the [official journal](https://www.sciencedirect.com/science/article/pii/S1350449519308217?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=430846661&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM643380&utm_source=AC_30&utm_term=Email%201%20Publishing_TLSH_Reminder).
 
 
 ![backgrounds.png](images/backgrounds.png)
