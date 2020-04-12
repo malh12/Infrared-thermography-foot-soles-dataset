@@ -62,7 +62,7 @@ By reducing the resolution of the visual spectrum central area of <img src="http
 <img src="https://render.githubusercontent.com/render/math?math=(240 \times 320)"> pixels
 </p>
 
-By reducing the resolution in the visual spectrum image from 480x640 pixels to 384x512 pixels, and fuse it with the high contrast color map, it is possible to show the difference in the captured area between both cameras. The image below shows the resulted image by fusing the visual spectrum image and infrared thermography image. It is possible to see that the focal point align the visual spectrum image to the infrared thermography in the foot soles area.
+By reducing the resolution in the visual spectrum image from <img src="https://render.githubusercontent.com/render/math?math=(480 \times 640)"> pixels to <img src="https://render.githubusercontent.com/render/math?math=(384 \times 512)"> pixels, and fuse it with the high contrast color map, it is possible to show the difference in the captured area between both cameras. The image below shows the resulted image by fusing the visual spectrum image and infrared thermography image. It is possible to see that the focal point align the visual spectrum image to the infrared thermography in the foot soles area.
 
 <p align="center">
 <img width="512" height="384" src="images/IR000190fusion0.8VS.jpg">
